@@ -1,0 +1,26 @@
+.verde {
+    width: 400px;
+    height: 600px;
+    background-color: green
+}
+
+.blanco {
+    width: 400px;
+    height: 600px;
+    background-color: aliceblue;
+}
+
+.rojo {
+    width: 400px;
+    height: 600px;
+    background-color: red;
+}
+
+.bandera {
+    display: inline-block;
+    vertical-align: top;
+}
+
+img {
+    margin: 115px 40px;
+}

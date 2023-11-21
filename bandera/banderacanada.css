@@ -1,0 +1,26 @@
+.rojo {
+    width: 300px;
+    height: 600px;
+    background-color: red
+}
+
+.blanco {
+    width: 600px;
+    height: 600px;
+    background-color: aliceblue;
+}
+
+.rojo {
+    width: 300px;
+    height: 600px;
+    background-color: red;
+}
+
+.bandera {
+    display: inline-block;
+}
+
+img {
+    width: 10px;
+    height: 10px;
+}

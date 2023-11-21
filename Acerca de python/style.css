@@ -1,0 +1,136 @@
+.mein {
+  width: 970px;
+  height: 800px;
+
+  background-color: #245076;
+}
+.top {
+  width: 970px;
+  height: 100px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.boton {
+  width: 300px;
+  height: 70px;
+
+  display: flex;
+}
+.text {
+  width: 70%;
+}
+.submit {
+  width: 30%;
+}
+
+.top img {
+  width: 300px;
+}
+.about {
+  width: 900px;
+  height: 80px;
+
+  margin-left: 70px;
+  background-color: #467dad;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
+.about a {
+  font-size: 30px;
+  font-style: normal;
+  color: white;
+  padding: 15px;
+}
+.lista {
+  width: 300px;
+  height: 200px;
+
+  font-size: 20px;
+}
+.lista li a {
+  color: white;
+}
+.cuerpo {
+  width: 970px;
+  height: 300px;
+
+  display: flex;
+  justify-content: space-around;
+}
+.bottom {
+  width: 970;
+  height: 250px;
+  background-color: #ffffff;
+
+  display: flex;
+  justify-content: space-around;
+}
+.footerr {
+  width: 970;
+  height: 104px;
+
+  background-color: #306da2;
+  font-size: large;
+
+  color: wheat;
+}
+
+.aa {
+  border: 10px solid #434343;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
+
+.parrafo {
+  width: 300px;
+  height: 100px;
+  color: white;
+  position: relative;
+  left: 230px;
+  text-align: center;
+}
+.abajo {
+  width: 300px;
+  height: 100px;
+
+  margin-top: 100px;
+  position: relative;
+  right: 90px;
+  color: yellow;
+  font-style: italic;
+}
+.izquierda {
+  height: 100px;
+  width: 400px;
+  text-align: center;
+}
+.derecha {
+  height: 100px;
+  width: 400px;
+  text-align: center;
+}
+strong {
+  color: white;
+}
+.derecha ul {
+  width: 55%;
+  margin: 0 auto;
+}
+
+.izquierda ul {
+  width: 55%;
+  margin: 0 auto;
+}
+
+.footerr p {
+  text-align: center;
+}
+
+.footerr div {
+  display: flex;
+  justify-content: space-around;
+}
